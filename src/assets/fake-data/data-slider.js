@@ -8,7 +8,7 @@ const heroSliderData = [
     {
         title_1: "Conheça a iTokenz e Tokenize-se",
         title_2: "",
-        title_3: "Monster NFTs",
+        title_3: "",
         description: "Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum",
         img: img1,
         imgbg: imgbg1,

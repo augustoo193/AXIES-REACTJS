@@ -16,7 +16,7 @@ const TopSeller = props => {
                     <div className="col-md-12">
                         <div className="heading-live-auctions">
                             <h2 className="tf-title">
-                                Top Seller</h2>
+                             NFT`Z</h2>
                         </div>
                     </div>
                     <div className="col-md-12">

@@ -23,7 +23,7 @@ const LiveAuction = props => {
                         <div className="col-md-12">
                             <div className="heading-live-auctions">
                                 <h2 className="tf-title pb-20">
-                                    Live Auctions</h2>
+                                Uma Forma Fácil de Negociar </h2>
                                 <Link to="/explore-03" className="exp style2">EXPLORE MORE</Link>
                             </div>
                         </div>
@@ -81,13 +81,13 @@ const LiveAuction = props => {
                                                                                     <img src={item.imgAuthor} alt="axies" />
                                                                                 </div>
                                                                                 <div className="info">
-                                                                                    <span>Creator</span>
+                                                                                    <span></span>
                                                                                     <h6> <Link to="/authors-02">{item.nameAuthor}
                                                                                     </Link> </h6>
                                                                                 </div>
                                                                             </div>
                                                                             <div className="price">
-                                                                                <span>Current Bid</span>
+                                                                                <span></span>
                                                                                 <h5> {item.price}</h5>
                                                                             </div>
                                                                         </div>
