@@ -19,7 +19,8 @@ const TodayPicks = props => {
                     <div className="col-md-12">
                         <div className="heading-live-auctions mg-bt-21">
                             <h2 className="tf-title pad-l-7">
-                                Today's Picks
+                                Categorias
+                                <h3>Lorem Ipsum Lorem Ipsum Lorem Ipsum</h3>
                             </h2>
                             <Link to="/explore-03" className="exp style2">EXPLORE MORE</Link>
                         </div>

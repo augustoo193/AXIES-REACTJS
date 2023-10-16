@@ -8,26 +8,26 @@ import icon4 from '../../assets/images/icon/Bookmark.png'
 const Create = () => {
     const data = [
         {
-            title: "Set Up Your Wallet",
-            description: "Wallet that is functional for NFT purchasing. You may have a Coinbase account at this point, but very few are actually set up to buy an NFT.",
+            title: "ITLC Token",
+            description: "O ITLC Token representa o futuro das finanças digitais. Oferecemos segurança, rapidez e descentralização. Nossa missão é proporcionar acesso global a soluções financeiras inovadoras. Junte-se a nós e faça parte da revolução financeira com o ITLC Token.",
             icon : icon1,
             colorbg : "icon-color1"
         },
         {
-            title: "Create Your Collection",
-            description: "Setting up your NFT collection and creating NFTs on NFTs is easy! This guide explains how to set up your first collection",
+            title: "BC Token",
+            description: "BC Token é a chave para um mundo de transações digitais rápidas, seguras e sem fronteiras. Com tecnologia avançada e compromisso com a inovação, estamos moldando o amanhã das finanças. Descubra o poder da simplicidade com BC Token.",
             icon : icon2,
             colorbg : "icon-color2"
         },
         {
-            title: "Add Your NFTs",
-            description: "Sed ut perspiciatis un de omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem.",
+            title: "ZDollar",
+            description: "Bem-vindo ao futuro das finanças digitais com ZDollar. Nossa missão é simplificar e aprimorar suas transações online, proporcionando segurança e eficiência. Com ZDollar, as possibilidades são infinitas. Junte-se a nós na jornada rumo a uma experiência financeira inovadora.",
             icon : icon3,
             colorbg : "icon-color3"
         },
         {
-            title: "List Them For Sale",
-            description: "Choose between auctions, fixed-price listings, and declining-price listings. You choose how you want to sell your NFTs!",
+            title: "ZCaw",
+            description: "ZCaw é a ponte para um mundo financeiro mais inteligente e conectado. Nossa plataforma inovadora oferece soluções financeiras avançadas com facilidade e eficiência. Descubra a simplicidade na complexidade financeira com ZCaw.",
             icon : icon4,
             colorbg : "icon-color4"
         },
@@ -39,7 +39,7 @@ const Create = () => {
                     <div className="col-md-12">
                         <div className="heading-live-auctions mg-bt-22">
                             <h2 className="tf-title pb-17">
-                                Create And Sell Your NFTs</h2>                         
+                                 Tokenz </h2>                         
                         </div>
                     </div>
                     {
