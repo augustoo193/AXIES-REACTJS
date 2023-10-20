@@ -5,55 +5,55 @@ import logofooter from '../../assets/images/logo/logo2.png'
 const Footer = () => {
     const accountList = [
         {
-            title: "Authors",
+            title: "Lorem Ipsum",
             link: "/authors-01"
         },
         {
-            title: "Collection",
+            title: "Lorem Ipsum",
             link: "/wallet-connect"
         },
         {
-            title: "Author Profile",
+            title: "Lorem Ipsum",
             link: "/edit-profile"
         },
         {
-            title: "Create Item",
+            title: "Lorem Ipsum",
             link: "/create-item"
         },
     ]
     const resourcesList = [
         {
-            title: "Help & Support",
+            title: "Lorem Ipsum",
             link: "/help-center"
         },
         {
-            title: "Live Auctions",
+            title: "Lorem Ipsum",
             link: "/live-auctions"
         },
         {
-            title: "Item Details",
+            title: "Lorem Ipsum",
             link: "/item-details-01"
         },
         {
-            title: "Activity",
+            title: "Lorem Ipsum",
             link: "/activity-01"
         },
     ]
     const companyList = [
         {
-            title: "Explore",
+            title: "Lorem Ipsum",
             link: "/explore-01"
         },
         {
-            title: "Contact Us",
+            title: "Lorem Ipsum",
             link: "/contact-01"
         },
         {
-            title: "Our Blog",
+            title: "Lorem Ipsum",
             link: "/blog"
         },
         {
-            title: "FAQ",
+            title: "Lorem Ipsum",
             link: "/faq"
         },
     ]
@@ -129,7 +129,7 @@ const Footer = () => {
                         </div>
                         <div className="col-lg-2 col-md-4 col-sm-5 col-5">
                             <div className="widget widget-menu style-1">
-                                <h5 className="title-widget">My Account</h5>
+                                <h5 className="title-widget">Lorem Ipsum</h5>
                                 <ul>
                                     {
                                         accountList.map((item,index) =>(
@@ -141,7 +141,7 @@ const Footer = () => {
                         </div>
                         <div className="col-lg-2 col-md-4 col-sm-7 col-7">
                             <div className="widget widget-menu style-2">
-                                <h5 className="title-widget">Resources</h5>
+                                <h5 className="title-widget">Lorem Ipsum</h5>
                                 <ul>
                                     {
                                         resourcesList.map((item,index) =>(
@@ -153,7 +153,7 @@ const Footer = () => {
                         </div>
                         <div className="col-lg-2 col-md-4 col-sm-5 col-5">
                             <div className="widget widget-menu fl-st-3">
-                                <h5 className="title-widget">Company</h5>
+                                <h5 className="title-widget">Lorem Ipsum</h5>
                                 <ul>
                                     {
                                         companyList.map((item,index) =>(

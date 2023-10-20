@@ -25,7 +25,7 @@ const TodayPicks = (props) => {
                   <div id="item_category" className="dropdown">
                     <Dropdown>
                       <Dropdown.Toggle id="dropdown-basic">
-                        All categories
+                      O NFT`Z em Destaque
                       </Dropdown.Toggle>
 
                       <Dropdown.Menu style={{ margin: 0 }}>
@@ -42,7 +42,7 @@ const TodayPicks = (props) => {
                   <div id="buy" className="dropdown">
                     <Dropdown>
                       <Dropdown.Toggle id="dropdown-basic">
-                        Buy Now
+                        
                       </Dropdown.Toggle>
 
                       <Dropdown.Menu style={{ margin: 0 }}>
@@ -54,7 +54,7 @@ const TodayPicks = (props) => {
                   <div id="all-items" className="dropdown">
                     <Dropdown>
                       <Dropdown.Toggle id="dropdown-basic">
-                        All Items
+                        
                       </Dropdown.Toggle>
 
                       <Dropdown.Menu style={{ margin: 0 }}>
@@ -127,7 +127,7 @@ const TodayPicks = (props) => {
                         <img src={item.imgAuthor} alt="axies" />
                       </div>
                       <div className="info">
-                        <span>Owned By</span>
+                        <span></span>
                         <h6>
                           {" "}
                           <Link to="/authors-02">{item.nameAuthor}</Link>{" "}
@@ -135,7 +135,7 @@ const TodayPicks = (props) => {
                       </div>
                     </div>
                     <div className="price">
-                      <span>Current Bid</span>
+                      <span>POLYGON</span>
                       <h5> {item.price}</h5>
                     </div>
                   </div>

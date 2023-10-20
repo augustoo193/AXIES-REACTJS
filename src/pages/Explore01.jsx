@@ -15,13 +15,12 @@ const Explore01 = () => {
                     <div className="row">
                         <div className="col-md-12">
                             <div className="page-title-heading mg-bt-12">
-                                <h1 className="heading text-center">Explore 1</h1>
+                                <h1 className="heading text-center">Discover Digital Artworks & <b/> Collect Best NFTz</h1>
                             </div>
                             <div className="breadcrumbs style2">
                                 <ul>
-                                    <li><Link to="/">Home</Link></li>
-                                    <li><Link to="#">Explore</Link></li>
-                                    <li>Explore 1</li>
+                                    <li>Lorem Ipsum Lorem <b/> Ipsum Lorem Ipsum</li>
+                                    <li>Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum</li>
                                 </ul>
                             </div>
                         </div>
