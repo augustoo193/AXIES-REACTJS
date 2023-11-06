@@ -21,24 +21,24 @@ const ItemDetails01 = () => {
         [
             {
                 img: img1,
-                name:"Mason Woodward",
-                time: "8 hours ago",
-                price: "4.89 ETH",
-                priceChange: "$12.246"
+                name:"Kallaban Joy ",
+                time: "@Lorem Ipsum",
+                price: "8.000,00",
+                priceChange: "352.543 ETH"
             },
             {
                 img: img2,
-                name:"Mason Woodward",
-                time: "at 06/10/2021, 3:20 AM",
-                price: "4.89 ETH",
-                priceChange: "$12.246"
+                name:"Kallaban Joy ",
+                time: "@Lorem Ipsum",
+                price: "8.000,00",
+                priceChange: "352.543 ETH"
             },
             {
                 img: img3,
-                name:"Mason Woodward",
-                time: "8 hours ago",
-                price: "4.89 ETH",
-                priceChange: "$12.246"
+                name:"Kallaban Joy ",
+                time: "@Lorem Ipsum",
+                price: "8.000,00",
+                priceChange: "352.543 ETH"
             },
             {
                 img: img4,
@@ -72,14 +72,10 @@ const ItemDetails01 = () => {
                     <div className="row">
                         <div className="col-md-12">
                             <div className="page-title-heading mg-bt-12">
-                                <h1 className="heading text-center">Item Details 1</h1>
+                                <h1 className="heading text-center"></h1>
                             </div>
                             <div className="breadcrumbs style2">
-                                <ul>
-                                    <li><Link to="/">Home</Link></li>
-                                    <li><Link to="#">Explore</Link></li>
-                                    <li>Item Details 1</li>
-                                </ul>
+                               
                             </div>
                         </div>
                     </div>
@@ -98,11 +94,9 @@ const ItemDetails01 = () => {
                         <div className="col-xl-6 col-md-12">
                             <div className="content-right">
                                 <div className="sc-item-details">
-                                    <h2 className="style2">“The Fantasy Flower illustration ” </h2>
+                                    <h2 className="style2"> Mary Callahan </h2>
                                     <div className="meta-item">
                                         <div className="left">
-                                            <span className="viewed eye">225</span>
-                                            <span to="/login" className="liked heart wishlist-button mg-l-8"><span className="number-like">100</span></span>
                                         </div>
                                         <div className="right">
                                             <Link to="#" className="share"></Link>
@@ -116,51 +110,47 @@ const ItemDetails01 = () => {
                                                     <img src={img6} alt="Axies" />
                                                 </div>
                                                 <div className="info">
-                                                    <span>Owned By</span>
-                                                    <h6> <Link to="/author-02">Ralph Garraway</Link> </h6>
+                                                    <span>Criador</span>
+                                                    <h6> <Link to="/author-02"> Kallaban Joy </Link> </h6>
                                                 </div>
                                             </div>
                                         </div>
                                         <div className="meta-info">
                                             <div className="author">
                                                 <div className="avatar">
-                                                    <img src={img7} alt="Axies" />
+                                                   
                                                 </div>
                                                 <div className="info">
-                                                    <span>Create By</span>
-                                                    <h6> <Link to="/author-02">Freddie Carpenter</Link> </h6>
+                                                  
                                                 </div>
                                             </div>
                                         </div>
                                     </div>
-                                    <p>Habitant sollicitudin faucibus cursus lectus pulvinar dolor non ultrices eget.
-                                        Facilisi lobortisal morbi fringilla urna amet sed ipsum vitae ipsum malesuada.
-                                        Habitant sollicitudin faucibus cursus lectus pulvinar dolor non ultrices eget.
-                                        Facilisi lobortisal morbi fringilla urna amet sed ipsum</p>
+                                    <p>"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis ... </p>
                                     <div className="meta-item-details style2">
                                         <div className="item meta-price">
-                                            <span className="heading">Current Bid</span>
+                                            <span className="heading">Preço</span>
                                             <div className="price">
                                                 <div className="price-box">
-                                                    <h5> 4.89 ETH</h5>
-                                                    <span>= $12.246</span>
+                                                    <h5> 7.000,00</h5>
+                                                    <span> 1.431,50 ETH</span>
                                                 </div>
                                             </div>
                                         </div>
                                         <div className="item count-down">
-                                            <span className="heading style-2">Countdown</span>
+                                            <span className="heading style-2">Leilão Termina em</span>
                                             <Countdown date={Date.now() + 500000000}>
                                                 <span>You are good to go!</span>
                                             </Countdown>
                                         </div>
                                     </div>
-                                    <Link to="/wallet-connect" className="sc-button loadmore style bag fl-button pri-3"><span>Place a bid</span></Link>
+                                    <Link to="/wallet-connect" className="sc-button loadmore style bag fl-button pri-3"><span>Faça um lance</span></Link>
                                     <div className="flat-tabs themesflat-tabs">
                                     <Tabs>
                                         <TabList>
-                                        <Tab>Bid History</Tab>
-                                        <Tab>Info</Tab>
-                                        <Tab>Provenance</Tab>
+                                        <Tab>Ofertas</Tab>
+                                        <Tab>Informação do Usuário</Tab>
+                                        <Tab>Detalhes</Tab>
                                         </TabList>
 
                                         <TabPanel>
@@ -179,7 +169,7 @@ const ItemDetails01 = () => {
                                                                     </div>
                                                                     <div className="author-infor">
                                                                         <div className="name">
-                                                                            <h6><Link to="/author-02">{item.name} </Link></h6> <span> place a bid</span>
+                                                                            <h6><Link to="/author-02">{item.name} </Link></h6> <span></span>
                                                                         </div>
                                                                         <span className="time">{item.time}</span>
                                                                     </div>
@@ -209,7 +199,7 @@ const ItemDetails01 = () => {
                                                                     </div>
                                                                     <div className="author-infor">
                                                                         <div className="name">
-                                                                            <h6> <Link to="/author-02">Mason Woodward </Link></h6> <span> place a bid</span>
+                                                                            <h6> <Link to="/author-02">Mason Woodward </Link></h6> <span></span>
                                                                         </div>
                                                                         <span className="time">8 hours ago</span>
                                                                     </div>

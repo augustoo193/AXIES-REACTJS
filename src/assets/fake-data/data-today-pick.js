@@ -31,17 +31,16 @@ const todayPickData = [
         nameCollection: "Creative Art 3D"
     },
     {
-        img: img2,
-        title: "MonKey Kai ",
+        img: img3,
+        title: "Monkey Old Eye Red",
         tags: "MATIC",
-        imgAuthor: imga2,
+        imgAuthor: imga3,
         nameAuthor: "R$ 1.000.000,00",
         price: "",
         priceChange: "$12.246",
         wishlist: "",
-        feature: "coming soon",
         imgCollection: imgCollection1,
-        nameCollection: "Creative Art 3D",
+        nameCollection: "Creative Art 3D"
     },
     {
         img: img3,
@@ -55,164 +54,8 @@ const todayPickData = [
         imgCollection: imgCollection1,
         nameCollection: "Creative Art 3D"
     },
-    {
-        img: img4,
-        title: "Girl From Rio",
-        tags: "MATIC",
-        imgAuthor: imga4,
-        nameAuthor: "R$ 1.000.000,00",
-        price: "",
-        priceChange: "$12.246",
-        wishlist: "",
-        imgCollection: imgCollection1,
-        nameCollection: "Creative Art 3D"
-    },
-    {
-        img: img5,
-        title: "MonKey Kai ",
-        tags: "MATIC",
-        imgAuthor: imga5,
-        nameAuthor: "R$ 1.000.000,00",
-        price: "",
-        priceChange: "$12.246",
-        wishlist: "",
-        imgCollection: imgCollection1,
-        nameCollection: "Creative Art 3D"
-    },
-    {
-        img: img6,
-        title: "Monkey Old Eye Red",
-        tags: "MATIC",
-        imgAuthor: imga6,
-        nameAuthor: "R$ 1.000.000,00",
-        price: "",
-        priceChange: "$12.246",
-        wishlist: "",
-        imgCollection: imgCollection1,
-        nameCollection: "Creative Art 3D"
-    },
-    {
-        img: img7,
-        title: "Girl From Rio",
-        tags: "MATIC",
-        imgAuthor: imga7,
-        nameAuthor: "R$ 1.000.000,00",
-        price: "",
-        priceChange: "$12.246",
-        wishlist: "",
-        imgCollection: imgCollection1,
-        nameCollection: "Creative Art 3D"
-    },
-    {
-        img: img8,
-        title: "MonKey Kai ",
-        tags: "MATIC",
-        imgAuthor: imga8,
-        nameAuthor: "R$ 1.000.000,00",
-        price: "",
-        priceChange: "$12.246",
-        wishlist: "",
-        imgCollection: imgCollection1,
-        nameCollection: "Creative Art 3D"
-    },
-    {
-        img: img1,
-        title: "Monkey Old Eye Red",
-        tags: "MATIC",
-        imgAuthor: imga1,
-        nameAuthor: "R$ 1.000.000,00",
-        price: "",
-        priceChange: "$12.246",
-        wishlist: "",
-        imgCollection: imgCollection1,
-        nameCollection: "Creative Art 3D"
-    },
-    {
-        img: img2,
-        title: "Girl From Rio",
-        tags: "MATIC",
-        imgAuthor: imga2,
-        nameAuthor: "R$ 1.000.000,00",
-        price: "",
-        priceChange: "$12.246",
-        wishlist: "",
-        feature: "coming soon",
-        imgCollection: imgCollection1,
-        nameCollection: "Creative Art 3D"
-    },
-    {
-        img: img3,
-        title: "MonKey Kai ",
-        tags: "MATIC",
-        imgAuthor: imga3,
-        nameAuthor: "R$ 1.000.000,00",
-        price: "",
-        priceChange: "$12.246",
-        wishlist: "100",
-        imgCollection: imgCollection1,
-        nameCollection: "Creative Art 3D"
-    },
-    {
-        img: img4,
-        title: "Monkey Old Eye Red",
-        tags: "MATIC",
-        imgAuthor: imga4,
-        nameAuthor: "R$ 1.000.000,00",
-        price: "",
-        priceChange: "$12.246",
-        wishlist: "100",
-        imgCollection: imgCollection1,
-        nameCollection: "Creative Art 3D"
-    },
-    {
-        img: img5,
-        title: "Girl From Rio",
-        tags: "MATIC",
-        imgAuthor: imga5,
-        nameAuthor: "R$ 1.000.000,00",
-        price: "",
-        priceChange: "$12.246",
-        wishlist: "",
-        imgCollection: imgCollection1,
-        nameCollection: "Creative Art 3D"
-    },
-    {
-        img: img6,
-        title: "MonKey Kai ",
-        tags: "MATIC",
-        imgAuthor: imga6,
-        nameAuthor: "R$ 1.000.000,00",
-        price: "",
-        priceChange: "$12.246",
-        wishlist: "",
-        imgCollection: imgCollection1,
-        nameCollection: "Creative Art 3D"
-    },
-    {
-        img: img7,
-        title: "Monkey Old Eye Red",
-        tags: "MATIC",
-        imgAuthor: imga7,
-        nameAuthor: "R$ 1.000.000,00",
-        price: "",
-        priceChange: "$12.246",
-        wishlist: "",
-        imgCollection: imgCollection1,
-        nameCollection: "Creative Art 3D"
-    },
-    {
-        img: img8,
-        title: "Girl From Rio",
-        tags: "MATIC",
-        imgAuthor: imga8,
-        nameAuthor: "R$ 1.000.000,00",
-        price: "",
-        priceChange: "$12.246",
-        wishlist: "",
-        imgCollection: imgCollection1,
-        nameCollection: "Creative Art 3D"
-    }
-
+    
+    
 ]
 
 export default todayPickData;
